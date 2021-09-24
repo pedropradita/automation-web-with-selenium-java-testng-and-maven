@@ -1,0 +1,4 @@
+ObjectRepository\PintariaLoginPage.class
+ObjectRepository\PintariaRegisterPage.class
+ObjectRepository\PintariaHomePage.class
+ObjectRepository\PintariaForgotPasswordPage.class

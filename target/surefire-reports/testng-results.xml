@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="8" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-24T08:08:57 ICT" name="Suite" finished-at="2021-09-24T08:11:38 ICT" duration-ms="161437">
+    <groups>
+      <group name="Pintaria">
+        <method signature="PintariaForgotPasswordTest.ForgotPasswordAllUrl()[pri:0, instance:pintaria.PintariaForgotPasswordTest@4e91d63f]" name="ForgotPasswordAllUrl" class="pintaria.PintariaForgotPasswordTest"/>
+        <method signature="PintariaRegisterTest.RegistAlertWithoutSubmit()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" name="RegistAlertWithoutSubmit" class="pintaria.PintariaRegisterTest"/>
+        <method signature="PintariaRegisterTest.RegistAllUrl()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" name="RegistAllUrl" class="pintaria.PintariaRegisterTest"/>
+        <method signature="PintariaRegisterTest.RegistDaftarButton()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" name="RegistDaftarButton" class="pintaria.PintariaRegisterTest"/>
+      </group> <!-- Pintaria -->
+    </groups>
+    <test started-at="2021-09-24T08:08:57 ICT" name="Test" finished-at="2021-09-24T08:11:38 ICT" duration-ms="161437">
+      <class name="pintaria.PintariaRegisterTest">
+        <test-method is-config="true" signature="BefMet()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" started-at="2021-09-24T08:08:57 ICT" name="BefMet" finished-at="2021-09-24T08:09:13 ICT" duration-ms="16259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method signature="RegistAlertWithoutSubmit()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" started-at="2021-09-24T08:09:13 ICT" name="RegistAlertWithoutSubmit" finished-at="2021-09-24T08:09:14 ICT" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistAlertWithoutSubmit -->
+        <test-method is-config="true" signature="AfMet()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" started-at="2021-09-24T08:09:14 ICT" name="AfMet" finished-at="2021-09-24T08:09:18 ICT" duration-ms="4148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method is-config="true" signature="BefMet()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" started-at="2021-09-24T08:09:18 ICT" name="BefMet" finished-at="2021-09-24T08:09:26 ICT" duration-ms="8193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method signature="RegistAllUrl()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" started-at="2021-09-24T08:09:26 ICT" name="RegistAllUrl" finished-at="2021-09-24T08:10:26 ICT" duration-ms="59659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistAllUrl -->
+        <test-method is-config="true" signature="AfMet()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" started-at="2021-09-24T08:10:26 ICT" name="AfMet" finished-at="2021-09-24T08:10:26 ICT" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method is-config="true" signature="BefMet()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" started-at="2021-09-24T08:10:26 ICT" name="BefMet" finished-at="2021-09-24T08:10:32 ICT" duration-ms="5990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method signature="RegistDaftarButton()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" started-at="2021-09-24T08:10:32 ICT" name="RegistDaftarButton" finished-at="2021-09-24T08:10:32 ICT" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistDaftarButton -->
+        <test-method is-config="true" signature="AfMet()[pri:0, instance:pintaria.PintariaRegisterTest@2a32de6c]" started-at="2021-09-24T08:10:32 ICT" name="AfMet" finished-at="2021-09-24T08:10:32 ICT" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+      </class> <!-- pintaria.PintariaRegisterTest -->
+      <class name="pintaria.PintariaForgotPasswordTest">
+        <test-method is-config="true" signature="BeforeReg()[pri:0, instance:pintaria.PintariaForgotPasswordTest@4e91d63f]" started-at="2021-09-24T08:10:32 ICT" name="BeforeReg" finished-at="2021-09-24T08:10:43 ICT" duration-ms="10708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeReg -->
+        <test-method signature="ForgotPasswordAllUrl()[pri:0, instance:pintaria.PintariaForgotPasswordTest@4e91d63f]" started-at="2021-09-24T08:10:43 ICT" name="ForgotPasswordAllUrl" finished-at="2021-09-24T08:11:38 ICT" duration-ms="55052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotPasswordAllUrl -->
+        <test-method is-config="true" signature="AfMet()[pri:0, instance:pintaria.PintariaForgotPasswordTest@4e91d63f]" started-at="2021-09-24T08:11:38 ICT" name="AfMet" finished-at="2021-09-24T08:11:38 ICT" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+      </class> <!-- pintaria.PintariaForgotPasswordTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
