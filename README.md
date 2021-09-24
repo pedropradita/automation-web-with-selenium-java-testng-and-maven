@@ -1,6 +1,6 @@
 # My Sample code for automation-web-with-selenium-java-testng-and-maven
 
-#For Windows
+For Windows
 
 #Install Java
 1. Download Java https://www.java.com/en/
@@ -15,7 +15,7 @@
 10. open command prompt write java --version
 
 
-#Install Maven
+Install Maven
 1. Download Maven https://maven.apache.org/download.cgi - windows download binary zip archive
 2. copy folder to c program file
 3. copy address Maven folder
@@ -28,7 +28,7 @@
 10. open command prompt write mvn --version
 
 
-#Run Automation in command promt
+Run Automation in command promt
 1. mvn clean
 2. mvn compile
 3. mvn test
