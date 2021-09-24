@@ -1,4 +1,4 @@
-# My Sample code for automation web with selenium java testng and maven
+# My sample code for automation web with selenium java testng and maven
 
 ## Setup for Windows
 
@@ -30,7 +30,7 @@
 10. open command prompt write mvn --version
 ```
 
-## Run Automation in command promt
+## Run automation in command prompt
 ```
 1. mvn clean
 2. mvn compile
